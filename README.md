@@ -1,1 +1,1 @@
-# git-lab-7
+[![Build and Test](https://github.com/MallikarjunaKS05/git-lab-7/actions/workflows/ci.yml/badge.svg)](https://github.com/MallikarjunaKS05/git-lab-7/actions/workflows/ci.yml)
